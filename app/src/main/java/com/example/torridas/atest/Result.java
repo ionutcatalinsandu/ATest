@@ -8,7 +8,7 @@ import com.google.gson.annotations.SerializedName;
  * Created by Torridas on 11-Jul-17.
  */
 
-public class Result {
+ class Result {
     @SerializedName("id")
     private long id;
     @SerializedName("name")
